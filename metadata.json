@@ -1,0 +1,8 @@
+{
+  "name": "Trevelyan White Plumbing, Heating and Cooling",
+  "description": "Bespoke heating system design, boiler installation, repairs, heat pumps, and air conditioning services in Penzance, Cornwall, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
